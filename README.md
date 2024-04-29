@@ -1,5 +1,5 @@
-# unitree_models
-This is a repository providing Unitree's robot models
+# unitree_model
+This is a repository providing Unitree's robot 3D models for different environments.
 
 # Add usd files
 Adding usd files of H1, H2 and Go2. The motion of fingers in 'H1_with_hand.usd' should refer to its 'urdf'(link :
