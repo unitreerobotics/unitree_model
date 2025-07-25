@@ -1,13 +1,18 @@
 # unitree_model
 
+**!!! This repository is deprecated. Future updates will be released on [Hugging Face](https://huggingface.co/datasets/unitreerobotics/unitree_model/tree/main)**.
+
+
 This is a repository providing Unitree's robot 3D models for different environments.
 
 For more information about robots model, please visit [unitree_ros](https://github.com/unitreerobotics/unitree_ros).
 
 
+
+
 ## Generate from urdf
 
-Follow this tutorial [import_urdf](https://docs.isaacsim.omniverse.nvidia.com/4.5.0/robot_setup/import_urdf.html#getting-started) to convert URDF. 
+Please follow [import_urdf tutorial](https://docs.isaacsim.omniverse.nvidia.com/4.5.0/robot_setup/import_urdf.html#getting-started) to convert URDF. 
 Due to some bugs in the python script in version 4.5, please use `Direct Import`.
 
 Specify the settings as follows:
